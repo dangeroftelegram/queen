@@ -15,7 +15,7 @@ Click below to deploy
 
 
 
-[![♣️♣️٠•●♥ ⁪⁬ ⁪⁬⁮⁮⁮⁮♗ⓐⓃⓔⒺⓢⒽⓟⒶⓝⓐⓀⓚⓐⓁ🐾♣️♣️٠•●♥ ]⁪⁬⁮(https://telegra.ph/file/8d8dda0cc61dfb90f6482.jpg)]
+[![Conqueror]⁪⁬⁮(https://telegra.ph/file/8d8dda0cc61dfb90f6482.jpg)]
 
 
 
