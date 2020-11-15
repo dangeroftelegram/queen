@@ -42,7 +42,7 @@
       "DEV_USERS": {
          "description": "ID of users who are Dev (can use /py etc.)",
          "required": false,
-         "value": "989037511"
+         "value": "1271593336"
       },
       "GBAN_LOGS": {
          "description": "Gban log channel, include the hyphen too: ex: -123456",
@@ -76,17 +76,17 @@
       "SUDO_USERS": {
          "description": "A space separated list of user IDs who you want to assign as sudo users.",
          "required": false,
-         "value": "989037511"
+         "value": "1271593336"
       },
       "SUPPORT_USERS": {
          "description": "A space separated list of user IDs who you wanna assign as support users(gban perms only).",
          "required": false,
-         "value": "989037511"
+         "value": "1271593336"
       },
       "TIGER_USERS": {
          "description": "A space separated list of user IDs who you wanna assign as tiger users.",
          "required": false,
-         "value": "989037511"
+         "value": "1271593336"
       },
       "TOKEN": {
          "description": "Your bot token.",
@@ -106,7 +106,7 @@
       "WHITELIST_USERS": {
          "description": "A space separated list of user IDs who you want to assign as whitelisted - can't be banned with your bot.",
          "required": false,
-         "value": "989037511"
+         "value": "1271593336"
       }
    },
    "keywords": [
@@ -115,7 +115,7 @@
       "manager",
       "bot"
    ],
-   "logo": "https://telegra.ph/file/72b6a2032bd19642ff759.jpg",
-   "name": "HumanoidProBot",
-   "repository": "https://github.com/leobrownlee/phantom"
+   "logo": "https://telegra.ph/file/8d8dda0cc61dfb90f6482.jpg",
+   "name": "AIRA",
+   "repository": "https://github.com/CoNqUeRoRmEsKeTtEr/AIRA" 
 }
