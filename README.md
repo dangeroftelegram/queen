@@ -15,7 +15,7 @@ Click below to deploy
 
 
 
-[![Conqueror]⁪⁬⁮(https://telegra.ph/file/279c67d27b033e056239a.jpg)]
+[![Conqueror]⁪⁬⁮(https://telegra.ph/file/8d8dda0cc61dfb90f6482.jpg)]
 
 
 
