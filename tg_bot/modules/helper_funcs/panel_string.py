@@ -1,7 +1,7 @@
 ALLUKA_IMG = "https://telegra.ph/file/8d8dda0cc61dfb90f6482.jpg"
 
 SOURCE_STRING = """
-I'm built in python3, using the python-telegram-bot library, and am fully opensource - you can find what makes me tick [here](https://github.com/CoNqUeRoRmEsKeTtEr/AIRA)
+Darkness canoot drive without darkness)
 """
 
 HELP = """
