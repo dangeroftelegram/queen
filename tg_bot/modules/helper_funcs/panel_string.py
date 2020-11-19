@@ -1,7 +1,7 @@
 ALLUKA_IMG = "https://telegra.ph/file/8d8dda0cc61dfb90f6482.jpg"
 
 SOURCE_STRING = """
-Darkness canoot drive without darkness)
+Darkness cann0t drive without darkness)
 """
 
 HELP = """
