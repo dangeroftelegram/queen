@@ -3,8 +3,7 @@
 
 # Use at your own risk
 
-
-[Contact me](https://t.me/CoNqUeRoR_mEsKeTteR)
+ [Contact me](https://t.me/Danger_of_telegram ) 
 
 
  Hint : Telegram is missing 
@@ -16,10 +15,10 @@ Click below to deploy
 
 
 
+ [![ AsuraN᭄͜͡࿐ ]( https://telegra.ph/file/b0db36b7d7e577f9aabef.jpg )] 
 
 
 
 
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CoNqUeRoRmEsKeTtEr/AIRA.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template= https://github.com/godoftelegram/queen_pro)
 
