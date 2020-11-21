@@ -20,5 +20,4 @@ Click below to deploy
 
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template= https://github.com/godoftelegram/queen_pro)
-
+ [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/godoftelegram/queen_pro) 
